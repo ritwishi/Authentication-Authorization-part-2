@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Authentication-Authorization-part-2/static/css/main.bc156136.chunk.css",
+    "main.js": "/Authentication-Authorization-part-2/static/js/main.a8e3e508.chunk.js",
+    "main.js.map": "/Authentication-Authorization-part-2/static/js/main.a8e3e508.chunk.js.map",
+    "runtime-main.js": "/Authentication-Authorization-part-2/static/js/runtime-main.7eade9e3.js",
+    "runtime-main.js.map": "/Authentication-Authorization-part-2/static/js/runtime-main.7eade9e3.js.map",
+    "static/js/2.a5970f43.chunk.js": "/Authentication-Authorization-part-2/static/js/2.a5970f43.chunk.js",
+    "static/js/2.a5970f43.chunk.js.map": "/Authentication-Authorization-part-2/static/js/2.a5970f43.chunk.js.map",
+    "index.html": "/Authentication-Authorization-part-2/index.html",
+    "static/css/main.bc156136.chunk.css.map": "/Authentication-Authorization-part-2/static/css/main.bc156136.chunk.css.map",
+    "static/js/2.a5970f43.chunk.js.LICENSE.txt": "/Authentication-Authorization-part-2/static/js/2.a5970f43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eade9e3.js",
+    "static/js/2.a5970f43.chunk.js",
+    "static/css/main.bc156136.chunk.css",
+    "static/js/main.a8e3e508.chunk.js"
+  ]
+}
